@@ -1,0 +1,12 @@
+pair : STRAXUSDT, binance price : 0.0474, kucoin_price : 0.04689, Optimal Amount: 10000, Max Profit: 4.1571 USDT
+pair : XLMBTC, binance price : 1.61e-06, kucoin_price : 1.605e-06, Optimal Amount: 10000, Max Profit: 0.0000 USDT
+pair : BCHSVBTC, binance price : 0.011179, kucoin_price : 0.000685, Optimal Amount: 10000, Max Profit: 104.8214 USDT
+pair : LSKUSDT, binance price : 0.984, kucoin_price : 0.9804, Optimal Amount: 10000, Max Profit: 16.3560 USDT
+pair : WAVESBTC, binance price : 1.626e-05, kucoin_price : 1.514e-05, Optimal Amount: 10000, Max Profit: 0.0109 USDT
+pair : FLUXBTC, binance price : 1.017e-05, kucoin_price : 1.011e-05, Optimal Amount: 10000, Max Profit: 0.0004 USDT
+pair : OMGUSDT, binance price : 0.383, kucoin_price : 0.2992, Optimal Amount: 10000, Max Profit: 831.1780 USDT
+pair : AMBBTC, binance price : 1e-07, kucoin_price : 9.95e-08, Optimal Amount: 10000, Max Profit: 0.0000 USDT
+pair : QUICKUSDT, binance price : 0.04088, kucoin_price : 0.04067, Optimal Amount: 10000, Max Profit: 1.2845 USDT
+pair : WAVESUSDT, binance price : 1.076, kucoin_price : 0.9642, Optimal Amount: 10000, Max Profit: 1097.5980 USDT
+pair : HNTUSDT, binance price : 4.67, kucoin_price : 3.615, Optimal Amount: 10000, Max Profit: 10467.1500 USDT
+pair : WANETH, binance price : 9.27e-05, kucoin_price : 5.81e-05, Optimal Amount: 10000, Max Profit: 0.3445 USDT

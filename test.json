@@ -1,0 +1,17 @@
+[
+    {
+        "pair": "VOXELETH",
+        "binance_price": 0.0002022,
+        "kucoin_price": 4.42e-05,
+        "optimal_amount": 10000,
+        "max_profit": 1.5775360000000003
+    },
+    {
+        "pair": "BLZUSDT",
+        "binance_price": 0.1924,
+        "kucoin_price": 0.19169,
+        "optimal_amount": 10000,
+        "max_profit": 3.2590999999998846
+    }
+
+]
